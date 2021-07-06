@@ -3,11 +3,18 @@ header{
     width: 100%;
     height: 99px;
 }
-header #icono{
+header #iconoGit,#iconoGitHub{
     width: 100px;
     height: 100px;
+    
+}
+header #iconoGit{
     float: left;
 }
+header #iconoGitHub{
+    float: right;
+}
+
 header h1{
     text-align: center;    
 }
